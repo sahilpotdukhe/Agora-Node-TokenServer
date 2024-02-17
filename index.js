@@ -3,8 +3,8 @@ const {RtcTokenBuilder, RtcRole} = require('agora-access-token');
 
 const PORT = 8080;
 
-const APP_ID = process.env.APP_ID;
-const APP_CERTIFICATE = process.env.APP_CERTIFICATE;
+const APP_ID = "3a5f9bfe0efa423e9eaf5447565e0f7b";
+const APP_CERTIFICATE = "36ac518967254613bcf6187193be212b";
 
 const app = express();
 
